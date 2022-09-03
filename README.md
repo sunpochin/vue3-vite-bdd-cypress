@@ -1,11 +1,17 @@
 # vue3-vite-bdd-cypress
 
 ## Ref:
-After reading these 2 following posts I made bdd working in a vue3 vite project.
+After reading these following posts I made bdd working in a vue3 vite project.
 
 https://medium.com/@JoeTann/front-end-tutorial-on-behavior-driven-development-with-cucumber-cypress-and-jest-a7e28c517e1
 
 https://stackoverflow.com/questions/72617008/cypress-cucumber-preprocessor-does-not-parse-feature-files
+
+https://github.com/JoanEsquivel/cypress-cucumber-boilerplate
+
+https://www.youtube.com/watch?v=bS9Q0_uKAs8&t=1181s
+https://github.com/kylecoberly/knowledge/wiki/Cypress-Cucumber
+
 
 ```
 npm run test:e2e
