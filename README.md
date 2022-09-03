@@ -11,6 +11,10 @@ https://stackoverflow.com/questions/72617008/cypress-cucumber-preprocessor-does-
 npm run test:e2e
 ```
 to see bdd results.
+
+If any cypress error occurs, try:
+```rm node_modules``` and ```npm i```
+
 ## Project Setup
 
 ```sh
@@ -35,3 +39,4 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 npm run lint
 ```
+
